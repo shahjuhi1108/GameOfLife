@@ -20,7 +20,7 @@ public class Main {
         while(true) {
             state = processor.getNextState(state);
             System.out.println(state);
-            Thread.sleep(3000);
+            Thread.sleep(1000);
             System.out.println("----------------------------------------------");
         }
     }
