@@ -13,6 +13,6 @@ Follows the rules:
 2. Any dead cell with three live neighbours becomes a live cell.
 3. All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
-The demonstation for this specific input is shown below:
+The demonstration for this specific input is shown below:
 
 ![Game of Life Demo](GameOfLifeDemo.gif)
