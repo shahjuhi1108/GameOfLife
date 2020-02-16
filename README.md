@@ -5,7 +5,7 @@ The game is a zero-player game, meaning that its evolution is determined by its 
 This demo project takes the input as a file (or console input).
 
 Sample input can be seen in file:
-input.txt
+resources/input.txt
 
 Follows the rules:
 
